@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Prashant Kumar Mishra
 
-<!--
-**Prashant-1234-arch/Prashant-1234-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m passionate about transforming data into insights and building smart solutions using Machine Learning and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Skills & Technologies
+
+🐍 Python
+💻 C Basics
+🤖 Machine Learning
+
+
+🎯 Interests
+
+* Machine Learning
+* Data Science
+* Building small ML/AI projects
+
+
+📬 Contact Me
+
+* 📩 **Email:** [prashantmishra32451@gmail.com](mailto:prashantmishra32451@gmail.com)
+* 💼 **Naukri Profile:** [https://www.naukri.com/mnjuser/homepage](https://www.naukri.com/mnjuser/homepage)
+
+
+
+📊 GitHub Stats
+
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-1234-arch&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-1234-arch&layout=compact&theme=tokyonight)
+
+🌟 Thank you for visiting
+
+Feel free to explore my repositories and connect with me. Always learning, always building!
