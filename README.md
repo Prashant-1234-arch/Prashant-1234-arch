@@ -28,9 +28,11 @@ Welcome to my GitHub profile! I’m passionate about transforming data into insi
 
 📊 GitHub Stats
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-1234-arch&show_icons=true&theme=tokyonight)
+![Prashant's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Prashant-1234-arch&show_icons=true&theme=tokyonight](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashant-1234-arch&show_icons=true&theme=tokyonight
+)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-1234-arch&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prashant-1234-arch&layout=compact&theme=tokyonight
+)
 
 🌟 Thank you for visiting
 
